@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055680412260",
+    "firebase_url": "https://personal-calender-a0f59.firebaseio.com",
+    "project_id": "personal-calender-a0f59",
+    "storage_bucket": "personal-calender-a0f59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055680412260:android:e1cfd1e4a58629747a3d71",
+        "android_client_info": {
+          "package_name": "com.example.personalcalender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055680412260-csf9qgkvlgufhk59ner0u2b0pcpv1guc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personalcalender",
+            "certificate_hash": "f7933e11a61fb8397d7fe16e63e72e1eb209d08f"
+          }
+        },
+        {
+          "client_id": "1055680412260-3eu1dbbc4diar5s87j451q09jlv370po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT5Ccylz0h-MrqPF94aXWZkfpHRJAVR3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055680412260-3eu1dbbc4diar5s87j451q09jlv370po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
